@@ -1,0 +1,9 @@
+background: linear-gradient(
+  338deg,
+  var(--blue-light) 35%,
+  var(--blue) 35%,
+  var(--blue) 65%,
+  var(--blue-light) 65%
+);
+
+box-shadow: 3px 3px 25px 6px rgba(0, 0, 0, 0.2);
